@@ -1,4 +1,5 @@
 import logging
+import flask
 from flask import has_request_context, request
 
 
